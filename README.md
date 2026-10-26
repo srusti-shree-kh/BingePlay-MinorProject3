@@ -162,7 +162,6 @@ Through this project, I gained practical experience in:
 - **Database:** MySQL
 - **Programming Language:** Python
 - **Core Technology:** SQL
-- **Analysis Period:** January–June 2024
 - **Business Domain:** OTT Streaming and Subscription Analytics
 - **Purpose:** Academic learning and practical application of SQL-based data analytics.
 
